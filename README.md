@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 
 ![Profile Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
+
 ## 🚀 Skills and Technologies
 
 - 🌐 **Web Development**: Crafting beautiful and responsive websites
@@ -48,8 +49,8 @@ spending
 
 ## 🎉 Fun Fact
 
-![Fun Fact](https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif)
+
 
 I love contributing to open-source projects and learning new technologies. Feel free to reach out to me for collaboration or just to say hi!
 
-![Thanks for Visiting](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+
