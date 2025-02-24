@@ -32,7 +32,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 
 ### 🔥 Featured Projects
 
-- [zapp]([(https://github.com/pixelpurfect/zapp)]):A full fledged online delivery system where user in returns be the delivery partner used react native and fulfledged firebase rendering and secured menu list 
+- [zapp]([(https://github.com/pixelpurfect/zapp)]):
+- A full fledged online delivery system where user in returns be the delivery partner used react native and fulfledged firebase rendering and secured menu list 
   ![Project Animation](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 - [EXPENSE TRACKER](https://github.com/yourusername/anotherproject): 
