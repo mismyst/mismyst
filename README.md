@@ -45,8 +45,6 @@ spending
 
 ## 📫 Get in Touch
 
-- 📧 Email: [NAYANSTARKT@GMAIL.COM](nayanstarkt@gmail.com)
-- 💼 LinkedIn: [myst](https://www.linkedin.com/in/nayantra-ramakrishnan-b5b8ba284/)
 
 ## 🎉 Fun Fact
 
