@@ -25,8 +25,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 - 🧠 **LLM and NLP**: Leveraging large language models and natural language processing for advanced text analysis
 ## 📈 Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mismyst&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mismyst&layout=compact&theme=radical)
+
 
 ## 🛠️ Projects
 
