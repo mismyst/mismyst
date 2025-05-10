@@ -21,10 +21,15 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
   - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 - 🌐 **API Development**: Creating seamless integrations and data flows   
   - ![REST API](https://img.shields.io/badge/-REST%20API-FF5733?style=flat-square&logo=api&logoColor=white)
+- ☁️ **Cloud & Distributed Systems**: **Primary focus** - Architecting scalable, resilient distributed systems
+  - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+  - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+  - ![Microservices](https://img.shields.io/badge/-Microservices-FF6B6B?style=flat-square&logo=microgenetics&logoColor=white)
+  - ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 - 🤖 **Machine Learning**: Implementing intelligent algorithms and models
 - 📦 **Deploying ML Models**: Ensuring scalable and efficient deployment
 - 🧠 **LLM and NLP**: Leveraging large language models and natural language processing for advanced text analysis
-## 📈 Stats
 
 
 
