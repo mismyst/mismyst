@@ -30,8 +30,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 ### 🔥 Featured Projects
 
 - [zapp](https://github.com/pixelpurfect/zapp): A full-fledged online delivery system where users can also become delivery partners. Built with React Native and Firebase, featuring secure menu rendering.
-  
-  ![Project Animation](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+  ![Screenshot 2025-04-19 171250](https://github.com/user-attachments/assets/ff0b0640-c35a-4407-8db2-36fab5626811)
+
 
 - [FOOD AI RECIPE](https://github.com/yourusername/actualprojectname): Introducing FoodImg2Recipe - an AI-powered culinary assistant in your pocket. Not only does it help with recipes, but it also provides healthy, allergy-aware meal suggestions.
   
