@@ -27,24 +27,15 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 
 
 
-## 🛠️ Projects
-
 ### 🔥 Featured Projects
 
-- [zapp]([(https://github.com/pixelpurfect/zapp)]):
-- A full fledged online delivery system where user in returns be the delivery partner used react native and fulfledged firebase rendering and secured menu list 
+- [zapp](https://github.com/pixelpurfect/zapp): A full-fledged online delivery system where users can also become delivery partners. Built with React Native and Firebase, featuring secure menu rendering.
+  
+  ![Project Animation](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
-![Screenshot 2025-04-19 171250](https://github.com/user-attachments/assets/f2f96e85-40f4-4950-9c42-775993ca9dd5)
-
-
-- [EXPENSE TRACKER](https://github.com/yourusername/anotherproject): 
-Developed “ ADVANCE EXPENSE TRACKER” using K-N clusters model and ARIMA model by using
-personal expense datasets to display expense patterns and for forcast spending prediction using last 6
-months of analysis to fix a minimum limit amount to the users for spending labeled as conservation
-spending
-  ![Project Animation](https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif)
-
-## 📫 Get in Touch
+- [FOOD AI RECIPE](https://github.com/yourusername/actualprojectname): Introducing FoodImg2Recipe - an AI-powered culinary assistant in your pocket. Not only does it help with recipes, but it also provides healthy, allergy-aware meal suggestions.
+  
+  ![Screenshot](https://github.com/user-attachments/assets/482bda34-a4cb-48a5-9176-07b0fe9fa474)
 
 
 ## 🎉 Fun Fact
