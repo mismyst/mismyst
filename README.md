@@ -33,7 +33,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 
 - [zapp]([(https://github.com/pixelpurfect/zapp)]):
 - A full fledged online delivery system where user in returns be the delivery partner used react native and fulfledged firebase rendering and secured menu list 
-  ![Project Animation](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+
+![Screenshot 2025-04-19 171250](https://github.com/user-attachments/assets/f2f96e85-40f4-4950-9c42-775993ca9dd5)
+
 
 - [EXPENSE TRACKER](https://github.com/yourusername/anotherproject): 
 Developed “ ADVANCE EXPENSE TRACKER” using K-N clusters model and ARIMA model by using
