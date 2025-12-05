@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for building innovative solutions using cutting-edge technologies. Here's a bit about me and what I do:
 
-![kannade ](https://github.com/user-attachments/assets/afa82653-a81f-4352-88e8-dc951d4ba249)
+
 
 
 
